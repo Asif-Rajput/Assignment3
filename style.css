@@ -1,0 +1,194 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.topbar{
+    background-color: royalblue;
+    padding: 10;
+    color: white;
+}
+
+.topbar i{
+   padding: 10px 10px;
+   font-size: 40;
+}
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.social{
+float: left;
+}
+
+.moto{
+    float: left;
+    margin-left: 150px;
+    font-size: 13px;
+    text-align: center;
+    padding: 10px;
+}
+
+.head-buttons{
+    float: right;;
+    margin-left: 150px;
+}
+
+.clear{
+    clear: both;
+}
+
+
+.head-buttons a{
+    width: auto;
+    background-color: whitesmoke;
+    color: black;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.header{
+    background-color: white;
+}
+
+.show-in-line{
+    display: inline-block;
+}
+
+.logo img{
+    width: 200px;
+}
+
+.menu ul li{
+    display: inline-block;
+    list-style: none;
+}
+
+.menu ul li a{
+    padding: 10px 25px;
+    color: black;
+    font-style: none;
+    text-decoration: none;
+}
+
+.logo{
+    float: left;
+}
+
+.menu{
+    float: right;
+    margin-top: 28px;
+}
+
+.menu ul li a:hover{
+    background-color: blue;
+    color: white;
+    border-radius: 25px;
+}
+
+.marque{
+    background-color: blue;
+    color: white;
+}
+
+.container1{
+    width: 1200px;
+    margin: 0 auto;
+}
+    
+h2.main-title{
+    text-align: center;
+    color: blue;
+    margin: 40px 0px;
+}
+
+.second-color{
+    color: greenyellow;
+}
+
+.intro p{
+    text-align: center;
+    margin: 30px 150px;
+}
+
+.counter{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+.counter img{
+    margin: 50px 10px 20px 20px;
+    width: 50px;
+}
+
+.counter p{
+    margin: 10px 20px;
+}
+
+.services img{
+    margin: 20px 60px;
+}
+
+.services h2{
+    color: royalblue;
+    text-align: center;
+}
+
+.projects h2{
+    color: blue;
+    text-align: left;
+}
+
+.projects h4{
+    color: royalblue;
+}
+
+.events{
+    float: center;
+}
+
+.events h2{
+    color: blue;
+    text-align: left;
+}
+
+.gallery h1{
+    color: blue;
+    text-align: center;
+}
+
+.gallery img{
+    margin: 30px 30px;
+    padding: 50px 50px
+}
+
+.footer{
+    background-color: grey;
+}
+
+.footer h3{
+    color: white;
+    text-align: center;
+}
+
+.footer p{
+    padding: 2px;
+    margin: 5px;
+}
+
+.footer i{
+    padding: 10px 10px;
+    font-size: 40;
+ }
+
+ .copyright{
+     background-color: aqua;
+     color: white;
+ }
+ 
+
